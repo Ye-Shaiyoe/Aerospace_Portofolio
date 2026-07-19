@@ -1,0 +1,37 @@
+# Windows executable
+*.exe
+
+# Object file
+*.o
+*.obj
+
+# Library
+*.a
+*.lib
+
+# Shared library
+*.dll
+*.so
+*.dylib
+
+# Debug file
+*.pdb
+
+# Temporary
+*.tmp
+*.log
+
+# VS Code
+.vscode/
+
+# CMake
+build/
+cmake-build-*/
+
+# Rust
+target/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
